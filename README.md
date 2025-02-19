@@ -2,21 +2,15 @@
 
 ## I'm a Software Developer and CS Researcher!
 
-- 🚀 I'm currently working on a project for my portfolio
-- 🌱 I'm currently learning everything
-- 🤝 I'm looking to collaborate with other developers
-- 📧 Contact me: [anjummaisam@gmail.com](mailto:anjummaisam@gmail.com)
-- 🎵 Fun fact: One thing I cannot live without is my Spotify playlists
 
 ![Cool GIF](https://media.giphy.com/media/l41YtZOb9EUABnuqA/giphy.gif)
 
 ---
 
 ### Connect with me:
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/)
-[![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/)
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/)
 [![Discord](https://img.shields.io/badge/-Discord-5865F2?style=flat&logo=discord&logoColor=white)](https://discord.com/)
+[![Linkedin](https://img.shields.io/badge/-Discord-5865F2?style=flat&logo=discord&logoColor=white)](https://discord.com/)
 [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
 
 ---
