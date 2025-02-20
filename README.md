@@ -2,11 +2,20 @@
 
 ## I'm a Developer, Researcher, and AI Enthusiast!
 
-- 🚀 Currently working on AI and machine learning research focusing on LLMs and Graph Neural Networks
-]- 🤝 Open to collaborations in software development and AI projects
-- 📧 Contact me: [koorikdat@gmail.com](mailto:koorikdat@gmail.com)
-
-![Cool GIF](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExazM2Z205eGV3aTFsZ29sbWtjOXh3aG90bnpqMmVibWNtc2t4bWg3NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/E6jscXfv3AkWQ/giphy.gif)
+<table>
+  <tr>
+    <td>
+      <ul>
+        <li>🚀 Currently working on AI and machine learning research focusing on LLMs and Graph Neural Networks</li>
+        <li>🤝 Open to collaborations in software development and AI projects</li>
+        <li>📧 Contact me: <a href="mailto:koorikdat@gmail.com">koorikdat@gmail.com</a></li>
+      </ul>
+    </td>
+    <td>
+      <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExazM2Z205eGV3aTFsZ29sbWtjOXh3aG90bnpqMmVibWNtc2t4bWg3NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/E6jscXfv3AkWQ/giphy.gif" width="300"/>
+    </td>
+  </tr>
+</table>
 
 ---
 
