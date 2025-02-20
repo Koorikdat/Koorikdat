@@ -54,29 +54,29 @@
       <table>
         <tr>
           <td align="center">
-            <img src="https://upload.wikimedia.org/wikipedia/en/thumb/8/80/Royal_Bank_of_Canada_Logo.svg/2560px-Royal_Bank_of_Canada_Logo.svg.png" height="50"/>
+            <img src="https://raw.githubusercontent.com/Koorikdat/Koorikdat/main/assets/RBC.png" height="50"/>
             <br><b>RBC</b>
           </td>
           <td align="center">
-            <img src="https://upload.wikimedia.org/wikipedia/commons/7/7c/Presidents_Choice_logo.svg" height="50"/>
+            <img src="https://raw.githubusercontent.com/Koorikdat/Koorikdat/main/assets/PCFinancial.png" height="50"/>
             <br><b>President's Choice</b>
           </td>
           <td align="center">
-            <img src="https://upload.wikimedia.org/wikipedia/commons/4/4a/Loblaws_logo.svg" height="50"/>
+            <img src="https://raw.githubusercontent.com/Koorikdat/Koorikdat/main/assets/Loblaws.png" height="50"/>
             <br><b>Loblaws</b>
           </td>
         </tr>
         <tr>
           <td align="center">
-            <img src="https://civiconnect.ca/wp-content/uploads/2020/09/Civiconnect-Logo-1.png" height="50"/>
+            <img src="https://raw.githubusercontent.com/Koorikdat/Koorikdat/main/assets/Civiconnect.png" height="50"/>
             <br><b>Civiconnect</b>
           </td>
           <td align="center">
-            <img src="https://upload.wikimedia.org/wikipedia/commons/3/39/Smithsonian_logo_color.svg" height="50"/>
+            <img src="https://raw.githubusercontent.com/Koorikdat/Koorikdat/main/assets/Smithsonian.png" height="50"/>
             <br><b>Smithsonian Museum</b>
           </td>
           <td align="center">
-            <img src="https://brocku.ca/wp-content/uploads/Brock-University-logo.png" height="50"/>
+            <img src="https://raw.githubusercontent.com/Koorikdat/Koorikdat/main/assets/Brock.png" height="50"/>
             <br><b>Brock University</b>
           </td>
         </tr>
@@ -91,6 +91,5 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Koorikdat&layout=compact&theme=dark"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Koorikdat&theme=dark"/>
-  <img src="https://github-contributor-stats.vercel.app/api?username=Koorikdat&theme=dark"/>
   <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Koorikdat&theme=dark"/>
 </p>
