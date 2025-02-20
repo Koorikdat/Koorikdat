@@ -80,11 +80,11 @@
             <br><b>Civiconnect</b>
           </td>
           <td align="center">
-            <img src="https://raw.githubusercontent.com/Koorikdat/Koorikdat/main/assets/Smithsonian.png" height="200"/>
+            <img src="https://raw.githubusercontent.com/Koorikdat/Koorikdat/main/assets/Smithsonian.png" height="500"/>
             <br><b>Smithsonian Museum</b>
           </td>
           <td align="center">
-            <img src="https://raw.githubusercontent.com/Koorikdat/Koorikdat/main/assets/Brock.png" height="200"/>
+            <img src="https://raw.githubusercontent.com/Koorikdat/Koorikdat/main/assets/Brock.png" height="500"/>
             <br><b>Brock University</b>
           </td>
         </tr>
@@ -97,6 +97,6 @@
 
 ### **GitHub Stats**
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Koorikdat&layout=compact&theme=dark" height="50"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Koorikdat&theme=dark" height="50"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Koorikdat&layout=compact&theme=dark" height="100"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Koorikdat&theme=dark" height="100"/>
 </p>
