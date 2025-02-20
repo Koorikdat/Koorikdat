@@ -44,15 +44,15 @@
 <table>
   <tr>
     <td align="center">
-      <img src="https://upload.wikimedia.org/wikipedia/en/thumb/8/80/Royal_Bank_of_Canada_Logo.svg/2560px-Royal_Bank_of_Canada_Logo.svg.png" height="60"/>
+      <img src="https://upload.wikimedia.org/wikipedia/en/thumb/8/80/Royal_Bank_of_Canada_Logo.svg/320px-Royal_Bank_of_Canada_Logo.svg.png" height="50"/>
       <br><b>RBC</b>
     </td>
     <td align="center">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Presidents_Choice_logo.svg/2560px-Presidents_Choice_logo.svg.png" height="50"/>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/7/7c/Presidents_Choice_logo.svg" height="50"/>
       <br><b>President's Choice</b>
     </td>
     <td align="center">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Loblaws_logo.svg/2560px-Loblaws_logo.svg.png" height="50"/>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/4/4a/Loblaws_logo.svg" height="50"/>
       <br><b>Loblaws</b>
     </td>
     <td align="center">
@@ -60,7 +60,7 @@
       <br><b>Civiconnect</b>
     </td>
     <td align="center">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Smithsonian_logo_color.svg/1280px-Smithsonian_logo_color.svg.png" height="50"/>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/3/39/Smithsonian_logo_color.svg" height="50"/>
       <br><b>Smithsonian Museum</b>
     </td>
     <td align="center">
@@ -69,6 +69,7 @@
     </td>
   </tr>
 </table>
+
 
 ---
 
