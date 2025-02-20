@@ -99,5 +99,4 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Koorikdat&layout=compact&theme=dark"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Koorikdat&theme=dark"/>
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Koorikdat&theme=dark"/>
 </p>
