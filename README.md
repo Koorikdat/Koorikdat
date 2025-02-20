@@ -10,22 +10,21 @@
         <li>🤝 Open to collaborations in software development and AI projects</li>
         <li>📧 I would love to work with you!</li>
       </ul>
+
+      <p><b>Connect with me:</b></p>
+      <p>
+        <a href="https://github.com/Koorikdat"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white"/></a>
+        <a href="https://www.linkedin.com/in/maisam-anjum/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
+        <a href="https://www.instagram.com/koorikdat/"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white"/></a>
+        <a href="https://discordapp.com/users/koorikdat"><img src="https://img.shields.io/badge/-Discord-5865F2?style=flat&logo=discord&logoColor=white"/></a>
+      </p>
+
     </td>
     <td>
       <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExazM2Z205eGV3aTFsZ29sbWtjOXh3aG90bnpqMmVibWNtc2t4bWg3NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/E6jscXfv3AkWQ/giphy.gif" width="300"/>
     </td>
   </tr>
 </table>
-
----
-
-### **Connect with me**
-<p align="center">
-  <a href="https://github.com/Koorikdat"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/maisam-anjum/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
-  <a href="https://www.instagram.com/koorikdat/"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white"/></a>
-  <a href="https://discordapp.com/users/koorikdat"><img src="https://img.shields.io/badge/-Discord-5865F2?style=flat&logo=discord&logoColor=white"/></a>
-</p>
 
 ---
 
