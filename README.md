@@ -80,11 +80,11 @@
             <br><b>Civiconnect</b>
           </td>
           <td align="center">
-            <img src="https://raw.githubusercontent.com/Koorikdat/Koorikdat/main/assets/Smithsonian.png" height="50"/>
+            <img src="https://raw.githubusercontent.com/Koorikdat/Koorikdat/main/assets/Smithsonian.png" height="200"/>
             <br><b>Smithsonian Museum</b>
           </td>
           <td align="center">
-            <img src="https://raw.githubusercontent.com/Koorikdat/Koorikdat/main/assets/Brock.png" height="50"/>
+            <img src="https://raw.githubusercontent.com/Koorikdat/Koorikdat/main/assets/Brock.png" height="200"/>
             <br><b>Brock University</b>
           </td>
         </tr>
