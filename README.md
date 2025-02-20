@@ -62,7 +62,7 @@
       <table>
         <tr>
           <td align="center">
-            <img src="[https://raw.githubusercontent.com/Koorikdat/Koorikdat/main/assets/RBC.png](https://github.com/Koorikdat/Koorikdat/blob/main/assets/RBC.png)" height="50"/>
+            <img src="https://raw.githubusercontent.com/Koorikdat/Koorikdat/main/assets/RBC.png" height="50"/>
             <br><b>RBC</b>
           </td>
           <td align="center">
