@@ -1,6 +1,4 @@
-# Hi there, I'm Maisam 👋
-
-## I'm a Developer, Researcher, and AI Enthusiast!
+# Hi there, I'm Maisam 👋 I'm a Developer, Researcher, and AI Enthusiast!
 
 <table>
   <tr>
