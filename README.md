@@ -41,21 +41,24 @@
       <img src="https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular&logoColor=white"/>
       <img src="https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white"/>
       <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white"/>
+      <img src="https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=flutter&logoColor=white"/>
+      <img src="https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white"/>
+      <img src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white"/>
     </td>
     <td>
       <p><b>Work Experience:</b></p>
       <table>
         <tr>
           <td align="center">
-            <img src="https://upload.wikimedia.org/wikipedia/en/thumb/8/80/Royal_Bank_of_Canada_Logo.svg/320px-Royal_Bank_of_Canada_Logo.svg.png" height="50"/>
+            <img src="https://logos-world.net/wp-content/uploads/2023/05/RBC-Logo.png" height="50"/>
             <br><b>RBC</b>
           </td>
           <td align="center">
-            <img src="https://upload.wikimedia.org/wikipedia/commons/7/7c/Presidents_Choice_logo.svg" height="50"/>
+            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Presidents_Choice_logo.svg/2560px-Presidents_Choice_logo.svg.png" height="50"/>
             <br><b>President's Choice</b>
           </td>
           <td align="center">
-            <img src="https://upload.wikimedia.org/wikipedia/commons/4/4a/Loblaws_logo.svg" height="50"/>
+            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Loblaws_logo.svg/2560px-Loblaws_logo.svg.png" height="50"/>
             <br><b>Loblaws</b>
           </td>
         </tr>
@@ -65,7 +68,7 @@
             <br><b>Civiconnect</b>
           </td>
           <td align="center">
-            <img src="https://upload.wikimedia.org/wikipedia/commons/3/39/Smithsonian_logo_color.svg" height="50"/>
+            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Smithsonian_logo_color.svg/1280px-Smithsonian_logo_color.svg.png" height="50"/>
             <br><b>Smithsonian Museum</b>
           </td>
           <td align="center">
