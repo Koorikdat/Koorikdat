@@ -2,15 +2,16 @@
 
 ## I'm a Software Developer and CS Researcher!
 
+- I have my undergraduate degree in Computer Science at Brock University
 
 ![Cool GIF](https://media.giphy.com/media/l41YtZOb9EUABnuqA/giphy.gif)
 
 ---
 
 ### Connect with me:
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)]([https://instagram.com/](https://www.instagram.com/koorikdat/))
 [![Discord](https://img.shields.io/badge/-Discord-5865F2?style=flat&logo=discord&logoColor=white)](https://discord.com/)
-[![Linkedin](https://img.shields.io/badge/-Discord-5865F2?style=flat&logo=discord&logoColor=white)](https://discord.com/)
+[![Linkedin](https://img.shields.io/badge/%40-Linkedin-blue)]((https://www.linkedin.com/in/maisam-anjum/))
 [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
 
 ---
@@ -28,7 +29,3 @@
 ![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 
 ---
-
-### Stats:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=dark)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=dark)
