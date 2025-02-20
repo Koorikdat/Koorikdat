@@ -8,7 +8,7 @@
       <ul>
         <li>🚀 Currently working on AI and machine learning research focusing on LLMs and Graph Neural Networks</li>
         <li>🤝 Open to collaborations in software development and AI projects</li>
-        <li>📧 I would love to wrok with you!</a></li>
+        <li>📧 I would love to work with you!</li>
       </ul>
     </td>
     <td>
@@ -19,15 +19,17 @@
 
 ---
 
-### Connect with me:
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Koorikdat)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maisam-anjum/)
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/koorikdat/)
-[![Discord](https://img.shields.io/badge/-Discord-5865F2?style=flat&logo=discord&logoColor=white)](https://discordapp.com/users/koorikdat)
+### **Connect with me**
+<p align="center">
+  <a href="https://github.com/Koorikdat"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/maisam-anjum/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.instagram.com/koorikdat/"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white"/></a>
+  <a href="https://discordapp.com/users/koorikdat"><img src="https://img.shields.io/badge/-Discord-5865F2?style=flat&logo=discord&logoColor=white"/></a>
+</p>
 
 ---
 
-### My Tech Stack & Work Experience:
+### **My Tech Stack & Work Experience**
 <table>
   <tr>
     <td>
@@ -52,15 +54,15 @@
       <table>
         <tr>
           <td align="center">
-            <img src="https://1000logos.net/wp-content/uploads/2021/05/RBC-logo.png" height="50"/>
+            <img src="https://upload.wikimedia.org/wikipedia/en/thumb/8/80/Royal_Bank_of_Canada_Logo.svg/2560px-Royal_Bank_of_Canada_Logo.svg.png" height="50"/>
             <br><b>RBC</b>
           </td>
           <td align="center">
-            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Presidents_Choice_logo.svg/2560px-Presidents_Choice_logo.svg.png" height="50"/>
+            <img src="https://upload.wikimedia.org/wikipedia/commons/7/7c/Presidents_Choice_logo.svg" height="50"/>
             <br><b>President's Choice</b>
           </td>
           <td align="center">
-            <img src="https://logos-world.net/wp-content/uploads/2023/05/Loblaws-Logo.png" height="50"/>
+            <img src="https://upload.wikimedia.org/wikipedia/commons/4/4a/Loblaws_logo.svg" height="50"/>
             <br><b>Loblaws</b>
           </td>
         </tr>
@@ -70,7 +72,7 @@
             <br><b>Civiconnect</b>
           </td>
           <td align="center">
-            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Smithsonian_logo_color.svg/1280px-Smithsonian_logo_color.svg.png" height="50"/>
+            <img src="https://upload.wikimedia.org/wikipedia/commons/3/39/Smithsonian_logo_color.svg" height="50"/>
             <br><b>Smithsonian Museum</b>
           </td>
           <td align="center">
@@ -85,8 +87,10 @@
 
 ---
 
-### GitHub Stats:
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Koorikdat&layout=compact&theme=dark)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Koorikdat&theme=dark)
-![Contributions Chart](https://github-contributor-stats.vercel.app/api?username=Koorikdat&theme=dark)
-![Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=Koorikdat&theme=dark)
+### **GitHub Stats**
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Koorikdat&layout=compact&theme=dark"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Koorikdat&theme=dark"/>
+  <img src="https://github-contributor-stats.vercel.app/api?username=Koorikdat&theme=dark"/>
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Koorikdat&theme=dark"/>
+</p>
