@@ -7,7 +7,7 @@
         <li>🚀 Currently working on AI and machine learning research focusing on LLMs and Graph Neural Networks</li>
         <li>🤝 Open to collaborations in software development and AI projects, I would love to work with you!</li>
         <li>📧 https://koorikdat.github.io/PersonalWebsite  📧</li>
-        ---
+        <br>
         <p align="center">
             <a href="https://github.com/Koorikdat">
               <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
