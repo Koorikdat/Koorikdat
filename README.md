@@ -8,7 +8,7 @@
       <ul>
         <li>🚀 Currently working on AI and machine learning research focusing on LLMs and Graph Neural Networks</li>
         <li>🤝 Open to collaborations in software development and AI projects</li>
-        <li>📧 Contact me: <a href="mailto:koorikdat@gmail.com">koorikdat@gmail.com</a></li>
+        <li>📧 I would love to wrok with you!</a></li>
       </ul>
     </td>
     <td>
