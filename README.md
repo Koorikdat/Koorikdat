@@ -44,13 +44,15 @@
       <img src="https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=flutter&logoColor=white"/>
       <img src="https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white"/>
       <img src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white"/>
+      <img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white"/>
+      <img src="https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=postgresql&logoColor=white"/>
     </td>
     <td>
       <p><b>Work Experience:</b></p>
       <table>
         <tr>
           <td align="center">
-            <img src="https://logos-world.net/wp-content/uploads/2023/05/RBC-Logo.png" height="50"/>
+            <img src="https://1000logos.net/wp-content/uploads/2021/05/RBC-logo.png" height="50"/>
             <br><b>RBC</b>
           </td>
           <td align="center">
@@ -58,7 +60,7 @@
             <br><b>President's Choice</b>
           </td>
           <td align="center">
-            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Loblaws_logo.svg/2560px-Loblaws_logo.svg.png" height="50"/>
+            <img src="https://logos-world.net/wp-content/uploads/2023/05/Loblaws-Logo.png" height="50"/>
             <br><b>Loblaws</b>
           </td>
         </tr>
@@ -85,3 +87,6 @@
 
 ### GitHub Stats:
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Koorikdat&layout=compact&theme=dark)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Koorikdat&theme=dark)
+![Contributions Chart](https://github-contributor-stats.vercel.app/api?username=Koorikdat&theme=dark)
+![Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=Koorikdat&theme=dark)
