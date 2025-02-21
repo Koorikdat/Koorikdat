@@ -91,6 +91,6 @@
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Koorikdat&layout=compact&theme=dark" height="200"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Koorikdat&theme=dark" height="200"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Koorikdat&layout=compact&theme=dark" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Koorikdat&theme=dark" height="170"/>
 </p>
